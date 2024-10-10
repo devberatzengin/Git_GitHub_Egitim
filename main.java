@@ -1,1 +1,5 @@
-String metin ="master daki metinim";
+public Class Main {
+    public Class main{
+        
+    } 
+}
