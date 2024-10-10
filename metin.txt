@@ -1,1 +1,3 @@
 selamlar
+
+3. satır kodları bunlardır
