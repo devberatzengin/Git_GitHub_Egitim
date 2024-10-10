@@ -1,0 +1,1 @@
+String metin ="feature daki metinim";
